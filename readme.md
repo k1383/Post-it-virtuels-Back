@@ -8,11 +8,11 @@ Opérations CRUD :
 `DELETE` : Supprimer une note.
 
 ## Les endpoints
-POST    /postIt     -- Créer une nouvelle note 
-GET     /posIt      -- Afficher toutes les notes
-GET     /postIt/:id  -- Afficher une note en particulier 
-PATCH   /postIt:id  -- Modifier une note (contenu, couleur)
-DELETE  /postIt:id  -- Supprimer une note 
+* POST    /postIt     -- Créer une nouvelle note 
+* GET     /posIt      -- Afficher toutes les notes
+* GET     /postIt/:id  -- Afficher une note en particulier 
+* PATCH   /postIt/:id  -- Modifier une note (contenu, couleur)
+* DELETE  /postIt/:id  -- Supprimer une note 
 
 ## Schema de données 
 
