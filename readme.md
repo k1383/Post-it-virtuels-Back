@@ -16,8 +16,8 @@ Opérations CRUD :
 
 ## Schema de données 
 
-- Title : Titre de la note (string and required)
-- Text : Contenu de la note (string and required)
-- Color : Ajouter une couleur au texte ou titre (couleur noir par default (pas obligatoire))
+- title : Titre de la note (string and required)
+- text : Contenu de la note (string and required)
+- color : Ajouter une couleur au texte ou titre (couleur noir par default (pas obligatoire))
 - creationDate : Quand l'élément de liste à été créer (Date, require)
 - completeDate : Quand l'élément à été marqué comme validé (Data)
